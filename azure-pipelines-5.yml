@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'Amjad-ctg'
+  vmImage: 'ubunte-lastest'
 
 steps:
 - task: Maven@3
