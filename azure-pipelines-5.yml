@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'Amjad-ctg'
+  name: Amjad-ctg
 
 steps:
 - task: Maven@3
