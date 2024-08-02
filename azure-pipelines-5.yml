@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'Amjad-ctg'
+  name: 'Amjad-ctg'
 
 steps:
 - task: Maven@3
