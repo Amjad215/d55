@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: New-linux
+  vmImage: new
 
 steps:
 - task: Maven@3
